@@ -1,5 +1,5 @@
 # Rsa_algo
 <strong>For Compilation :</strong><br>
-javac RSA.java<br>
+javac Main.java<br>
 <strong>For Execution:</strong><br>
-java RSA
+java Main
